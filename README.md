@@ -8,9 +8,14 @@ testing building a box2d project
 
 After setup, follow these steps:
 
-cd test-project \n
+cd test-project
+
 mkdir build
+
 cd build
+
 cmake ..
+
 cmake --build .
+
 ./TestBox2DApp
