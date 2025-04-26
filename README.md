@@ -6,7 +6,7 @@ testing building a box2d project
 
 ## Build and Run
 
-After setup, follow these steps:
+### After setup, follow these steps:
 
 cd test-project
 
