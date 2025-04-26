@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/TestBox2DApp.dir/src/main.cpp.o -o TestBox2DApp   -L/Users/anserabbas/Documents/Coding/Test/test-project/thirdparty/box2d/lib  -Wl,-rpath,/Users/anserabbas/Documents/Coding/Test/test-project/thirdparty/box2d/lib -lbox2d
