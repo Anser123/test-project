@@ -8,7 +8,7 @@ testing building a box2d project
 
 After setup, follow these steps:
 
-cd test-project
+cd test-project \n
 mkdir build
 cd build
 cmake ..
